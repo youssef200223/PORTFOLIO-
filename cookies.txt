@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.canva.site	TRUE	/	FALSE	1999999999	__cf_bm	APG4EvaweIGgoljRoXHWMq5OZuXXRufKjRHuddcB0ro-1732316571-1.0.1.1-pYeLWR2A_QvYAI8b0UHo_3LIjlCvOjNUQIEIMlhnzw5hR3KrGPTP3P0zqTWGn4qp..cToPLWfMywlCgJLbM9Sw
+nonfungiblecrib.my.canva.site	TRUE	/	FALSE	1999999999	SameSite	None
+
